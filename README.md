@@ -1,2 +1,0 @@
-# nest-project
-nest demo
